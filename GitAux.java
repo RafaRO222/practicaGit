@@ -11,7 +11,7 @@ public class GitAux {
     
     public void metodoAlumno1(){
         System.out.println("metodo 1");
-	System.out.println("modificado por el alum1"); // insertado por alum1
+	System.out.println("modificado por el alum1"); // insertado por Rafael
     }
     
     public void metodoAlumno2(){
@@ -21,8 +21,8 @@ public class GitAux {
     public void metodoComunitario(){
 	// Comentario incluido para pruebas
         System.out.println("Aqui escribimos todos");
-	// modificaciones alumno 1
-	System.out.println("Alumno 1 inserta esta sentencia");
+	// modificaciones Rafael
+	System.out.println("Rafael inserta esta sentencia");
     }
 
     public void testGitAux(){
